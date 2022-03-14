@@ -1,0 +1,6 @@
+framework module Pods_KeyloopDealerTests {
+  umbrella header "Pods-KeyloopDealerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
